@@ -11,7 +11,8 @@ class MyTheme {
           bodyText1: TextStyle(
               fontSize: 25, fontWeight: FontWeight.bold, color: Colors.black),
           bodyText2: TextStyle(
-              fontSize: 18, fontWeight: FontWeight.bold, color: Colors.black)),
+              fontSize: 20,  color: Colors.black)
+      ),
       appBarTheme: AppBarTheme(
         centerTitle: true,
         iconTheme: IconThemeData(color: Colors.black),
